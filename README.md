@@ -12,7 +12,7 @@
 
 ## ⚠️ The Problem Statement
 
-The traditional freelance gig economy is broken for both freelancers and clients due to three systemic failures:
+The traditional freelance gig economy is broken for freelancers and clients due to three systemic failures:
 
 * **Escrow & Extortionate Fees:** Centralized platforms take cuts of 20% or more from freelancer earnings and reserve the right to freeze funds arbitrarily without transparent dispute resolution. There is zero visibility into how disputes are adjudicated behind closed doors.
 * **KYC & Privacy Leaks:** Users are forced to upload raw passport and government ID photos to centralized databases, creating honeypots for identity theft and violating **GDPR** and localized data protection laws like **RBI KYC norms**. Users have zero control over how their identity data is shared, sold, or leaked.
